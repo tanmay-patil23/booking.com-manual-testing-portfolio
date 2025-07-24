@@ -1,4 +1,5 @@
 # booking.com-manual-testing-portfolio
+
 A lived-in set of real-world QA artefacts—traceability matrix, execution log, defect register, and sprint summary—capturing how a small tackled the Booking.com desktop site from every angle: payments, search, reviews, GDPR, accessibility, security, performance.
 What’s inside
 - rtm.csv
@@ -17,6 +18,7 @@ Why this matters
 Manual tests still catch what scripts ignore: broken layouts on rotated tablets, multilingual profanity that slips past filters, last-minute SQL nasties. This repo shows the receipts—evidence of hands-on, eyes-on testing that protects revenue and reputation.
 
 **Quick start**
+
 Clone or fork the repo.
 
 Pop the CSVs into your favourite spreadsheet tool.
@@ -26,6 +28,7 @@ Read the Markdown summary for context.
 Lift anything you like into your own projects—credit appreciated, but not required.
 
 **Stretch ideas**
+
 Extend the RTM with mobile app user stories.
 
 Convert high-value cases to Cypress or Playwright for CI.
