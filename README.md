@@ -1,5 +1,15 @@
 # booking.com-manual-testing-portfolio
 
+This repository contains select manual-testing artefacts designed to demonstrate advanced QA competency:
+
+| File | Description |
+|------|-------------|
+| rtm | Requirements Traceability Matrix (sample rows) |
+| test_execution_results | Execution log for build v1.4.3 |
+| defect_log | Defect register (critical & high issues) |
+| test-summary-report | Sprint Test Summary Report |
+
+
 A lived-in set of real-world QA artefacts—traceability matrix, execution log, defect register, and sprint summary—capturing how a small tackled the Booking.com desktop site from every angle: payments, search, reviews, GDPR, accessibility, security, performance.
 What’s inside
 - rtm.csv
